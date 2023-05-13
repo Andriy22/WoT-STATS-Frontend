@@ -2,8 +2,7 @@ const Home = () => {
 
     return (
         <div>
-            <button onClick={() => {
-            }}>Test
+            <button>Test
             </button>
         </div>
     );
